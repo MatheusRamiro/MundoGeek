@@ -56,11 +56,12 @@ main{
     padding: 0;
 }
 .mainint{
-    width: 880px;
+    width: 750px;
     height: 1000px;
-    margin-left: 590px;
+    margin-top: 100px;
+    margin-left: 30%;
 }
-.loja{
+.sessao{
     width: 750px;
     text-align: center;
     color: #f2f2f2;

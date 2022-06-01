@@ -24,7 +24,6 @@ header{
     width: 80%;
     height: 60px;
     float: right;
-    
 }
 .menu ul,
 .menu li{
@@ -44,8 +43,8 @@ header{
 }
 .menuint li:hover{
     
-    font-size: 21px;
-    border-bottom: 3px solid #f2f2f2;
+    font-size: 14px;
+    border-bottom: 2px solid #089cff;
     transition: 0.5s;
 }
 .menuint li a{
