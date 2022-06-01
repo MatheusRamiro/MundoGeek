@@ -1,0 +1,286 @@
+body{
+    margin: 0%;
+    background-color: #3e3e49;
+}
+header{
+    height: 70px;
+    background-color: #32323a;
+}
+.headerint{
+    width: 1000px;
+    margin: auto;
+    background-color: #43444e;
+
+}
+.logo{
+    width: 20%;
+    height: 80px;
+    float: left;
+}
+.logotipo{
+    height: 80px;
+}
+.menu{
+    width: 80%;
+    height: 60px;
+    float: right;
+    
+}
+.menu ul,
+.menu li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.menuint li{
+    float: right;
+    line-height: 65px;
+    padding-left:10px;
+    padding-right: 10px;
+    font-size: 15px;
+    margin: 0;
+    cursor: pointer;
+}
+.menuint li:hover{
+    
+    font-size: 21px;
+    border-bottom: 3px solid #f2f2f2;
+    transition: 0.5s;
+}
+.menuint li a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+main{
+    margin: 0;
+    padding: 0;
+}
+.mainint{
+    width: 1000px;
+    margin: auto;
+}
+.mainesquerda{
+    float: left;
+    margin-top: 300px;
+    width: 25%;
+    margin-left: -85px;
+}
+.mtitulo{
+    color: #f2f2f2;
+    font-family: montserrat;
+    font-size: 35px;
+}
+.mainesquerda p{
+    color: #f2f2f2;
+    font-family: montserrat;
+    font-size: 20px;
+}
+.maindireita{
+    float: right;
+    color: #f2f2f2;
+    font-family: montserrat;
+    margin-top: 70px;
+    width: 45%;
+}
+#nome{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color:#6f5193cf;
+    margin-top: 35px;
+}
+#nome:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#email{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px; 
+    background-color:#6f5193cf ;
+    margin-top: 35px;
+    margin-bottom: 7px;
+}
+#email:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#senha{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color:#6f5193cf; 
+    margin-top: 30px;
+}
+#senha:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#rsenha{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color:#6f5193cf; 
+    margin-top: 35px;
+}
+#rsenha:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#tituloidade{
+    color: #f2f2f2;
+    text-align: left;
+    font-size: 15px;
+    padding-top: 20px;
+    font-family: montserrat;
+}
+#idade{
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: #6f5193cf;
+    color: #f2f2f2;
+    
+}
+#idade:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+.sexotitulo{
+    margin-top: 35px;
+    color: #f2f2f2;
+    font-family: montserrat;
+}
+#sexo{
+    margin-top: 10px;
+}
+label {
+    margin-top: 10px;
+    font-family: montserrat;
+    margin-left: 4px;
+}
+#celular{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color:#6f5193cf; 
+    margin-top: 35px;
+}
+#end{
+    width: 350px;
+    height: 30px;
+    font-size: 15px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color:#6f5193cf; 
+    margin-top: 35px;
+}
+#end:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#end2:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#celular:hover{
+    transition: 0.5s;
+    background-color:#632be6cf;
+}
+#enviar{
+    width: 150px;
+    height: 40px;
+    margin-left: 25%;
+    margin-top: 35px;
+    border-radius: 10px;
+    color: #6f5193cf;
+    font-size: 20px;
+
+}
+#enviar:hover{
+    transition: 0.5s;
+    background-color: #921cf3cf;
+    color: #f2f2f2;
+    border-color: #f2f2f2;
+    height: 38px;
+    width: 148px;
+    cursor: pointer;
+}
+footer{
+    margin: 0;
+    padding: 0;
+}
+.footerint{
+    width: 1000px;
+    margin: auto;
+    margin-top: 1000px;
+    background: linear-gradient(89deg,#424242 0%, #2c2c2c 80%);
+    height: 200px;
+}
+.footeresquerda{
+    float: left;
+}
+.ftitulo{
+    padding-top: 20px;
+    color: #f2f2f2;
+    margin-top: 63px;
+    margin-left: 20px;
+    font-family: montserrat;
+    font-size: 17px;
+}
+.fsub{
+    margin-left: 20px;
+    font-family: montserrat;
+    color: #f2f2f2;
+    font-size: 15px;
+}
+.footerdireita{
+    float: right;
+    margin-top: 22px;
+    font-size: 18px;
+}
+.footerdireita li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 465px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 20px;
+}
+.footerdireita a{
+    text-decoration: none;
+    color: #f2f2f2;
+    font-size: 12px;
+    padding-top: 20px;
+    font-family: montserrat;
+}
+.textofooter{
+    color: #f2f2f2;
+    float: right;
+    margin-right: 30px;
+    background: linear-gradient(90deg, #ffffff00, #7056c3);
+    border-radius: 6px;
+}
+input::placeholder{
+    color: #f2f2f2;
+}
