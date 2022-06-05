@@ -59,10 +59,9 @@ main{
     width: 999px;
     height: 1000px;
     margin-top: 100px;
-    margin-left: 430px;
+    margin-left: 250px;
 }
 .sessao{
-    width: 1000px;
     color: #f2f2f2;
     font-size: 40px;
     font-family: montserrat;
@@ -106,12 +105,12 @@ main{
 footer{
     margin: 0;
     padding: 0;
-    background: linear-gradient(89deg,#424242 0%, #2c2c2c 80%);
 }
 .footerint{
     width: 1000px;
     margin: auto;
     height: 200px;
+    background: linear-gradient(89deg,#424242 0%, #2c2c2c 80%);
 }
 .footeresquerda{
     float: left;
