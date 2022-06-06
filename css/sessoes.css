@@ -109,8 +109,9 @@ footer{
 .footerint{
     width: 1000px;
     margin: auto;
-    height: 200px;
     background: linear-gradient(89deg,#424242 0%, #2c2c2c 80%);
+    height: 200px;
+    margin-top: 40px;
 }
 .footeresquerda{
     float: left;
@@ -131,13 +132,16 @@ footer{
 }
 .footerdireita{
     float: right;
+    margin-top: 22px;
+    font-size: 18px;
 }
 .footerdireita li{
     text-decoration: none;
     list-style: none;
-    margin-right: 500px;
-    margin-top: 3px;
-    margin-bottom: 3px;
+    margin-right: 465px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 20px;
 }
 .footerdireita a{
     text-decoration: none;
@@ -149,7 +153,6 @@ footer{
 .textofooter{
     color: #f2f2f2;
     float: right;
-    margin-top: -40px;
     margin-right: 30px;
     background: linear-gradient(90deg, #ffffff00, #7056c3);
     border-radius: 6px;
