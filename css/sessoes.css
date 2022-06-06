@@ -58,8 +58,9 @@ main{
 .mainint{
     width: 999px;
     height: 1000px;
+    margin: auto;
     margin-top: 100px;
-    margin-left: 250px;
+    padding-left: 6%;
 }
 .sessao{
     color: #f2f2f2;
