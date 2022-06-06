@@ -106,7 +106,10 @@ main{
     background-color:#632be6cf;
 }
 label{
-    color: #f2f2f2;
+    color: #21ff21;;
+}
+#ienviar{
+    margin-left: 46px;
 }
 #assunto{
     width: 350px;
@@ -140,7 +143,7 @@ label{
 #enviar{
     width: 150px;
     height: 40px;
-    margin-left: 25%;
+    margin-left: 31%;
     margin-top: 35px;
     border-radius: 10px;
     color: #6f5193cf;

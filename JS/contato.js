@@ -74,6 +74,6 @@ function tratarEmail(n){
         
 }
 function registrar(){
-    document.getElementById("ienviar").innerHTML = "RESGISTRADO COM SUCESSO."
+    document.getElementById("ienviar").innerHTML = "REGISTRADO COM SUCESSO"
     document.getElementById("ienviar").style.fontSize = "22px";
 }
